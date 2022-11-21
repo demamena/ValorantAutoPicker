@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValorantAutoPick", "ValorantAutoPick.csproj", "{D8F197B6-84A2-46B6-95F4-EE7F468E8BED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8F197B6-84A2-46B6-95F4-EE7F468E8BED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8F197B6-84A2-46B6-95F4-EE7F468E8BED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8F197B6-84A2-46B6-95F4-EE7F468E8BED}.Debug|x64.ActiveCfg = Debug|x64
+		{D8F197B6-84A2-46B6-95F4-EE7F468E8BED}.Debug|x64.Build.0 = Debug|x64
+		{D8F197B6-84A2-46B6-95F4-EE7F468E8BED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8F197B6-84A2-46B6-95F4-EE7F468E8BED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8F197B6-84A2-46B6-95F4-EE7F468E8BED}.Release|x64.ActiveCfg = Release|Any CPU
+		{D8F197B6-84A2-46B6-95F4-EE7F468E8BED}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8767CB0D-24E3-444D-BAA6-AA5019BCD4C5}
+	EndGlobalSection
+EndGlobal

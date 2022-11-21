@@ -1,0 +1,17 @@
+E:\source\repos\ValorantAutoPick\bin\Release\ValorantAutoPick.exe.config
+E:\source\repos\ValorantAutoPick\bin\Release\ValorantAutoPick.exe
+E:\source\repos\ValorantAutoPick\bin\Release\ValorantAutoPick.pdb
+E:\source\repos\ValorantAutoPick\bin\Release\Newtonsoft.Json.dll
+E:\source\repos\ValorantAutoPick\bin\Release\Newtonsoft.Json.xml
+E:\source\repos\ValorantAutoPick\obj\Release\ValorantAutoPick.csproj.AssemblyReference.cache
+E:\source\repos\ValorantAutoPick\obj\Release\ValorantAutoPick.csproj.SuggestedBindingRedirects.cache
+E:\source\repos\ValorantAutoPick\obj\Release\ValorantAutoPick.FormAddProfile.resources
+E:\source\repos\ValorantAutoPick\obj\Release\ValorantAutoPick.FormChangeProfile.resources
+E:\source\repos\ValorantAutoPick\obj\Release\ValorantAutoPick.FormMain.resources
+E:\source\repos\ValorantAutoPick\obj\Release\ValorantAutoPick.FormProfileManagement.resources
+E:\source\repos\ValorantAutoPick\obj\Release\ValorantAutoPick.Properties.Resources.resources
+E:\source\repos\ValorantAutoPick\obj\Release\ValorantAutoPick.csproj.GenerateResource.cache
+E:\source\repos\ValorantAutoPick\obj\Release\ValorantAutoPick.csproj.CoreCompileInputs.cache
+E:\source\repos\ValorantAutoPick\obj\Release\ValorantAutoPick.csproj.CopyComplete
+E:\source\repos\ValorantAutoPick\obj\Release\ValorantAutoPick.exe
+E:\source\repos\ValorantAutoPick\obj\Release\ValorantAutoPick.pdb
